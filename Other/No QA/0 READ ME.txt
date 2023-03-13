@@ -13,12 +13,16 @@ Here's the list of sprites and their original creator:
 1.77a by Barn by#7257
 1.187 by Sciuriday#1248.png
 1.193 by LilacTypo#3280.png
+1.364 by avacado511#9999.png
+1.420 by Stunfisk_Friend#7905.png
 2 by ClawsHDi#4608.png
 2.95 by Eli B)#5238.png
 2.129 by NVA (They Him)#8069.png
 2.129a by NVA (They Him)#8069.png
 2.355 by FrostyYogurt#2658.png
+2.364 by avacado511#9999.png
 2.370 by Crumbs#8513.png
+2.420 by Stunfisk_Friend#7905.png
 3 by ClawsHDi#4608.png
 3.106 by Eliot#0135
 3.130 by NVA (They Him)#8069.png
@@ -30,11 +34,14 @@ Here's the list of sprites and their original creator:
 4 by ClawsHDi#4608.png
 4.4 by BOLTED#8342.png
 4.4 by Zoroark73#0267.png
+4.79 by BloodyDeadCat#5292.png
 4.118 by PopcornKing#0819.png
 4.118a by PopcornKing#0819.png
 4.118b by PopcornKing#0819.png
 4.118c by PopcornKing#0819.png
 4.167 by Boring2M#0373
+4.179 by Just BEE yourself haha#0107.png
+4.179a by Just BEE yourself haha#0107.png
 4.203 by TheOtherGrace#4500.png
 4.203a by TheOtherGrace#4500.png
 4.409 by The Overseer#2445.png
@@ -67,6 +74,7 @@ Here's the list of sprites and their original creator:
 9.65a by Eliot#0135
 9.87 by Azuroh#5036.png
 9.287 by Yoshidactylus#5060.png
+9.318 by herocrawing#0483.png
 9.318.104.391 by All-Seeing#9253.png
 9.334 by SmithPR#9652.png
 9.352 by ClawsHDi#4608.png
@@ -92,6 +100,7 @@ Here's the list of sprites and their original creator:
 12.375 by eblair#7032.png
 12a by Todd Howard#9558.png
 13.37 by 𝕋oasted 𝔾oose#7124
+13.66 by The Gaming Bear#6307.png
 13.87 by Chimbly#9483.png
 14.2 by Sciuriday#1248.png
 14.2a by Sciuriday#1248.png
@@ -137,8 +146,11 @@ Here's the list of sprites and their original creator:
 24.164 by saigo#8877.png
 24.164a by saigo#8877.png
 24.176 by Dispiacere#4761.png
+24.287 by Feedback_Loop#7548.png
 24.287 by TheOtherGrace#4500.png
 24.287a by TheOtherGrace#4500.png
+24.368 by 𝕭𝕺𝕹𝕰𝕾#9711.png
+24.368a by 𝕭𝕺𝕹𝕰𝕾#9711.png
 24a by squid#1658.png
 25 by003Venusaur#9184
 25 by Crumbs#8513.png
@@ -159,10 +171,12 @@ Here's the list of sprites and their original creator:
 26.80 by Boring2M#1700.png
 26.112 by Geegeekitty#3428.png
 26.129 by Boring#0373.png
+26.151 by emobitxh#0505.png
 26.182 by Felgrand#3490
 26.192 by Milofiktri#6853.png
 26.263 by ROBIN!#0025.png
 26.355 by dank#3894.png
+27.123 by yaanmaster12#1041.png
 27.404 by 𝕋oasted 𝔾oose#7124
 28.52 by MBCMechachu#4003
 28.217 by Khrona#0339.png
@@ -220,11 +234,13 @@ Here's the list of sprites and their original creator:
 39 by Greengamefireline#2549.png
 39.56 by Xyloldi#9276
 39.236 by Tulho#6473
+39.285 by Linguine#1816.png
 39.300 by Jaters#2779.png
 39.327 by ClawsHDi#4608.png
 39.393 by NeoSoup#6526.png
 39.401 by Xyloldi#9276.png
 39a by Xyloldi#9276 
+40.40 by Insanity#7491.png
 40.57 by Milofiktri#6853.png
 40.57 by Xyloldi#9276
 40.106 by Tulho#6473
@@ -264,7 +280,9 @@ Here's the list of sprites and their original creator:
 47.131 by Strix#6463.png
 47.131a by Strix#6463.png
 47.321 by ThornsofLight#3245.png
+47.354 by Strix#6463.png
 47.356 by Snarguffle#8600.png
+47.366 by Strix#6463.png
 48.39 by Katourasa#1619.png
 48.46 by 𝕋oasted 𝔾oose#7124
 48.99 by HubblePie#0787.png
@@ -277,6 +295,7 @@ Here's the list of sprites and their original creator:
 49.40 by Katourasa#1619.png
 50.50 by Say#4732.png
 50.50 by Slimple#0001.png
+50.351 by getthedripp#1890.png
 50.373 by panthercraft#4268
 50.373 by panthercraft#4268 (1)
 51.72 by Le Titou puissant#5687
@@ -296,6 +315,7 @@ Here's the list of sprites and their original creator:
 55.46 by MBCMechachu#4003
 56.5 by GFG#2562.png
 56.26 by Mojo#9157.png
+57.210 by ntzoumi#8387.png
 57.266 by Maloro#8634.png
 58.27 by The Overseer#2445
 58.27a by The Overseer#2445
@@ -340,6 +360,7 @@ Here's the list of sprites and their original creator:
 68.131 by Quinn (She They)#0271.png
 68.234 by Z-Man#1429
 68.234a by Z-Man#1429
+68.321 by kanoute#7107.png
 68.368 by ☆♥𝕄𝕠𝕥𝕚𝕠𝕟𝕠𝕡𝕠𝕥𝕚𝕠𝕟♥☆#2455.png
 68.369 by ROKITCONR#5488
 68.415 by ☆♥𝕄𝕠𝕥𝕚𝕠𝕟𝕠𝕡𝕠𝕥𝕚𝕠𝕟♥☆#2455.png
@@ -356,6 +377,7 @@ Here's the list of sprites and their original creator:
 73.80 by Jessisodwakus#0909.png
 73.262 by Donny Pastaboi#3880.png
 74.28 by SlimeBolt#0743.png
+74.93 by LogieBear#7868.png
 74.224 by TheUnrealMango#4505 
 75.107 by THEGRANDEMPEROR#2163.png
 75.224 by TheUnrealMango#4505 
@@ -371,6 +393,7 @@ Here's the list of sprites and their original creator:
 78.87c by Papaya#9876.png
 78.182 by prince#7163
 79.63 by Wyvern#9236.png
+80.51 by TheSunVanished_#9644.png
 80.273 by ???
 81.36 by brogie21#9722.png
 81.63 by Raupi#6292.png
@@ -379,11 +402,13 @@ Here's the list of sprites and their original creator:
 81.263 by GameLord64#0690
 81.285 by Mysti#4921
 81.301 by MarvusTheButt#1412
+81.329 by dylan _)#5681.png
 81.372 by Dynte#0539 
 82.271 by Blaquaza#1347
 82.328 by Spels#4670.png
 82.328a by Spels#4670.png
 82.372 by Dynte#0539 
+83.294 by Qwetzle#4549.png
 83. 92 by 𝕋oasted 𝔾oose#7124.png
 83. 93 by 𝕋oasted 𝔾oose#7124.png
 83. 278 by ROKITCONR#5488
@@ -406,6 +431,8 @@ Here's the list of sprites and their original creator:
 89.191 by bob-chan#4997.png
 89.191a by bob-chan#4997.png
 89.192 by bob-chan#4997.png
+89.205 by Tsykotics#4142.png
+89.205a by Tsykotics#4142.png
 89.233 by Teebreaker#2095
 89.369 by spagalapof#5624
 89.369 by spagalapof#5624
@@ -427,21 +454,26 @@ Here's the list of sprites and their original creator:
 92.413 by LoserUser359#1783
 93 by Productiepoes#3671.png
 93.2 by Sciuriday#1248.png
+93.74 by LogieBear#7868.png
 93.106 by TM#7724 
 93.106a by TM#7724 
 93.130 by Mr. Person#2491.png
 93.130a by Mr. Person#2491.png
+93.151 by Saïd Zeppelin#4546.png
 93.254 by Remari#7169.png
 93.271 by wmpenn100#0519 
 93.287 by SilentSeekers14#2877
 93.295 by theeastgamer0#4466.png
 93.359 by Chreem#3237.png
 94 by Productiepoes#3671.png
+94.3 by Goldenberry3#8734.png
+94.3a by Goldenberry3#8734.png
 94.45 by 𝕋oasted 𝔾oose#7124 
 94.77 by Brammie#1082.png
 94.94 by BButton#8097.png
 94.94 by sashimiiiiiii#0329.png
 94.106 by USERNAME#2059.png
+94.139 by Kardyak#6465.png
 94.169 by Rekkuza#2643.png
 94.237 by eliyips#2447.png
 94.237 concept A by eliyips#2447.png
@@ -475,6 +507,7 @@ Here's the list of sprites and their original creator:
 99.323 by minced grass#7603.png
 99.324 by minced grass#7603.png
 100.98 by Boring2M#5795
+100.137 by TheSunVanished_#9644.png
 100.137 by h. 🍄#6125.png
 100.185 by magnacrabb#1234
 100.257 by magnacrabb#1234
@@ -499,17 +532,21 @@ Here's the list of sprites and their original creator:
 104 by The Overseer#2445 (edits by knuckles)
 104.19 by 𝕋oasted 𝔾oose#7124
 104.59 by MBCMechachu#4003
+104.83 by Qwetzle#4549.png
 104.133 by 「Pixel」#8166
 104.157 by Julian_#1818.png
 104.157a by Julian_#1818.png
 104.208 by Mega Moist#3413.png
 104.216 by Slimple#0001.png
+104.390 by Zuzuś#1915.png
 105.78a by xoto#0766.png
 105.85 by PulsarNyx#4875.png
 105.232 by Azræl#1469.png
+105.333 by Zuzuś#1915.png
 105.338 by Vandalyriess#6666.png
 105.410 by FlamingPaperCup#7468
 106 by Brammie#1082.png
+106.31 by Qwetzle#4549.png
 106.39 by spencersucks2#1328.png
 106.43 by Oni-Garth#3079.png
 106.44 by Oni-Garth#3079.png
@@ -533,6 +570,7 @@ Here's the list of sprites and their original creator:
 109.203 by2KoF#2209
 109.203 by2KoF#2209
 109.292 by ChemiX#0868.png
+109.373 by Terminatphilippe#5565.png
 109.396 by ThornsofLight#3245.png
 110.65 by Catbear#7028.png
 110.119 by Boring2M#5795
@@ -600,6 +638,7 @@ Here's the list of sprites and their original creator:
 128.105 by MBCMechachu#4003
 128.168 by GODZILLA!!#9419.png
 128.362 by 𝕋oasted 𝔾oose#7124.png
+129.68 by JustAnotherGuy11#7427.png
 129.212 by Z-Man#1429
 129.267 by Sciuriday#1248.png
 129.319 by minced grass#7603.png
@@ -623,14 +662,17 @@ Here's the list of sprites and their original creator:
 132.3 by SmoothEd1#9194
 132.21 by SmoothEd1#9194
 132.22 by SmoothEd1#9194
+132.68 by dylan _)#5681.png
 132.95 by Teebreaker#2095.png
 132.97 (Spamton joke) by Havocado#5084.png
 132.124 by spagalapof#5624.png
 132.137 by RAKSOss#4034.png
+132.166 by Polylight#3848.png
 132.170 by Boring#0373
 132.236 by Eli B)#5238.png
 132.370 by ClawsHDi#4608.png
 132.370a by ClawsHDi#4608.png
+132.381 by berry#9912.png
 132.397 by supersmall#5067.png
 132.399 by Harper#6029.png
 133.1 by GeoNack#6089.png
@@ -642,6 +684,7 @@ Here's the list of sprites and their original creator:
 133.226 by Cheepoof#8329.png
 133.282 by CrazeBanana#6943
 133.283 by CrazeBanana#6943
+133.373 by Buckerella.png
 133.410 by error#6038
 133.410a by error#6038
 134 by Howls#4468 
@@ -655,20 +698,25 @@ Here's the list of sprites and their original creator:
 134.357 by Jane has a gun#2231.png
 134.363 by Lord_Doomsday_47#9930.png
 134.368 by axl17#9480
+134.373 by Buckerella.png
 134.380 by LieutnantArchen#4466.png
 134.415 by axl17#9480
 135.63 by MBCMechachu#4003
 135.136 by Geegeekitty#3428.png
 135.338 by CommanderVenusaur#9184
+135.373 by Buckerella.png
 136 by Howls#4468 
+136.28 by avacado511#9999.png
 136.172 by JezusOfJordanTTV#1796.png
 136.172a by JezusOfJordanTTV#1796.png
 136.184 by Znacczlipper#8111.png
 136.338 by Mnemic#9960.png
+136.373 by Buckerella.png
 136.384 by MythOfDarkness#6482.png
 137.100 by Lcs128#0603.png
 137.100a by Lcs128#0603.png
 137.362 by Punko#1235 
+137.369 by Bubba#9170.png
 137.387 by SmoothEd1#9194
 137.387a by SmoothEd1#9194
 137.412 by Howls#4468
@@ -695,11 +743,22 @@ Here's the list of sprites and their original creator:
 144.341 by pengu#6874.png
 144.358 by Katten#7455.png
 144.396 by ThornsofLight#3245
+144.420 by Stunfisk_Friend#7905.png
 145.358 by Katten#7455.png
+145.420 by Stunfisk_Friend#7905.png
+146.160 by NightmareGHOST#9526.png
 146.358 by Katten#7455.png
+146.420 by Stunfisk_Friend#7905.png
 147.148 by MBCMechachu#4003
+147.311 by yaanmaster12#1041.png
 149.77 by MBCMechachu#4003
+149.91 by BustedRake#1299.png
+149.91a by BustedRake#1299.png
+149.157 by 𝕭𝕺𝕹𝕰𝕾#9711.png
+149.157a by 𝕭𝕺𝕹𝕰𝕾#9711.png
 149.162 by LinkLion1#2230
+149.309 by Franny#0901.png
+149.309a by Franny#0901.png
 149.361 by ThornsofLight#3245.png
 150 by KOMAIN#7770.png
 150 by Katten#7455.png
@@ -756,27 +815,34 @@ Here's the list of sprites and their original creator:
 155.5 by Little_Giant10#1443.png
 155.63 by Glaivecar#3088
 155.100 by Yoski#0887.png
+155.129 by Whatdadogdoin’#8691.png
 155.146 by lethalrabbit OG#5213.png
 155.203 by Mustard#1446.png
 155.309 by DigiDragoon#2625.png
 155.329 by Fireball006#6435.png
+155.383 by VxNDrev#7244.png
 155.(or 157byndaquil) by Blaquaza#1347
 155gead base by MetalXLemmy#7970.png
 156.5 by Little_Giant10#1443.png
 156.59 by buc-ee the beaver#6415.png
 156.203 by Mustard#1446.png
+156.294 by VxNDrev#7244.png
+156.383 by VxNDrev#7244.png
 157 by Katten#7455
 157 by TM#7724
+157.26 by Kristian9k3g#8602.png
 157.106 by FloppyDingDing#7840.png
 157.168 by FrozenReborns#2316
 157.208 by ???
 157.211 by poopsock643#7999
 157.214 by Congo#6825.png
+157.294 by VxNDrev#7244.png
 157.309 by DigiDragoon#2625.png
 157.309a by DigiDragoon#2625.png
 157.361 by ZeroCipher#2416.png
 157.363 by LucaLBDP22#8856.png
 157.377 by Dree#6123
+157.383 by VxNDrev#7244.png
 157.412 by Anzu#5119
 157.412a by Anzu#5119
 158.160 by Aizaaku#6704
@@ -797,6 +863,8 @@ Here's the list of sprites and their original creator:
 163.129 by RAKSOss#4034.png
 163.277 by NeoSoup#6526.png
 163.286 by angler#6027.png
+164.85 by Mathi_Boi#1940.png
+164.85a by Mathi_Boi#1940.png
 164.94 by ZeoMaddox#7022.png
 164.278 by xoto#0766.png
 165.416 by JacobTMM#4217.png
@@ -824,7 +892,9 @@ Here's the list of sprites and their original creator:
 171.340 by Tobias#3996
 171.379 by Tenespion#0001.png
 172.81 by ROBIN!#0025.png
+172.132 by BrooklynBeat#1699.png
 172.133 by Hubster#2475.png
+172.217 by DocBroccoli#1728.png
 172.322a by PlsHelpMe#7111
 172.322b by PlsHelpMe#7111
 173.43 by Echo.location#9717
@@ -854,15 +924,23 @@ Here's the list of sprites and their original creator:
 177.104 by renetenhove#6416.png
 178.105 by renetenhove#6416.png
 178.168 by Milofiktri#6853.png
+178.203 by JustAnotherGuy11#7427.png
 178.229 by Jackal#5326.png
+179.13 by DeaFeon#8283.png
+179.37 by Fireball006#6435.png
 179.162 by DarkFlameMaster ⬛🔥#0427.png
+179.179 by BELL#8254.png
 179.375 by Comfy#5418.png
+179.395 by JLD#7417.png
 179.409 by Tulho#6473
+180.14 by DeaFeon#8283.png
 180.162 by DarkFlameMaster ⬛🔥#0427.png
 180.205 by Brammie#1082.png
 180.205a by Brammie#1082.png
 180.281 by Katten#7455
 180.287 by Vandalyriess#6666.png
+180.395 by JLD#7417.png
+181.15 by DeaFeon#8283.png
 181.78 by Vick#2261.png
 181.136 by apurru#9447.png
 181.136a by apurru#9447.png
@@ -888,9 +966,11 @@ Here's the list of sprites and their original creator:
 184.192 by roketpro#6102 
 184.192 by roketpro#6102.png
 184a by Znacczlipper#8111.png
+185.25 by Forpols#7056.png
 185.61 by ThornsofLight#3245.png
 185.105 by Jaywdude#1024.png
 185.214 by Teebreaker#2095
+185.254 by Nocontribution#9143.png
 185.333 by Earrape (✨sandygast)#4785.png
 186 by GREEN#2016.png
 186.5 by GREEN#2016.png
@@ -902,13 +982,19 @@ Here's the list of sprites and their original creator:
 186.147 by GREEN#2016.png
 186.354 by GREEN#2016.png
 186.367 by GREEN#2016.png
+187.10 by Velvet Mitsu#7550.png
+187.133 by Galtis#2604.png
 187.268 by poopsock643#7999.png
+188.11 by Velvet Mitsu#7550.png
+188.133 by Galtis#2604.png
 188.180 by Toad900#1617 
 188.412 by error#6038.png
+189.12 by Velvet Mitsu#7550.png
 189.105 by Felgrand#3490
 189.105a by Felgrand#3490
 189.193 by Kitsune Ursa Vision#0470.png
 189.196 by Chimbly#9483.png
+189.314 by BrooklynBeat#1699.png
 189.331 by Milofiktri#6853.png
 189.331a by Milofiktri#6853.png
 189.331b by Milofiktri#6853.png
@@ -973,13 +1059,17 @@ Here's the list of sprites and their original creator:
 196.128 by ClawsHDi#4608
 196.160 by SaibaTheKid#2853.png
 196.194 by Jane has a gun#2231.png
+196.354 by Bmkage#5610.png
+196.373 by Buckerella.png
 196.374 by Nasho#2296.png
+196.392 by Corinnander#7645.png
 197 by WynnDawnstrider#0564
 197.34 by Dynte#0539
 197.115 by Crumbs#8513.png
 197.325 by ThornsofLight#3245.png
 197.326 by ThornsofLight#3245.png
 197.372 by huborbo#2676.png
+197.373 by Buckerella.png
 197.384 by GREEN#2016
 198.77 by FlamingPaperCup#7468
 198.77a by FlamingPaperCup#7468
@@ -994,6 +1084,8 @@ Here's the list of sprites and their original creator:
 198.323 by prince#7163
 198.323a by prince#7163
 198.410 by DerD4nnY#6878
+199.177 by Teddy2k#4565.png
+200.160 by TheOneAndOnlyLeoVonEhr#4503.png
 200.354 by WARDLE#2299.png
 200.397 by ZAPandDASH04#1846.png
 201.39 by spencersucks2#1328.png
@@ -1006,6 +1098,7 @@ Here's the list of sprites and their original creator:
 201.161 by ClawsHDi#4608.png
 201.182 by magnacrabb#1234
 201.201 by GameLord64#0690 
+201.203 by PoolToyNeko#9395.png
 201.240 by Blaquaza#1347.png
 201.242 by magnacrabb#1234
 201.248 by Dohnut#0943.png
@@ -1017,8 +1110,11 @@ Here's the list of sprites and their original creator:
 201.367a by The Overseer#2445
 201.367b by The Overseer#2445 (edits by GamR)
 201.373 by inaash.#1541.png
+202.47 by ℳisery#3971.png
 202.319 by GREEN#2016.png
 202.319a by GREEN#2016.png
+203.179 by PoolToyNeko#9395.png
+203.180 by PoolToyNeko#9395.png
 203.314 by spagalapof#5624
 204.325 by ThornsofLight#3245
 205.23 by LoserUser359#1783
@@ -1028,6 +1124,7 @@ Here's the list of sprites and their original creator:
 206.130 by poopsock643#7999
 208.6 by Smiley#1238
 208.15 by ClawsHDi#4608.png
+208.310 by ArtDoFart#4031.png
 209 A by Wonder#2598
 209 B by Wonder#2598
 209.3 by eydough#1368.png
@@ -1091,6 +1188,7 @@ Here's the list of sprites and their original creator:
 225.82 by 𝕋oasted 𝔾oose#7124.png
 225.100 by 𝕋oasted 𝔾oose#7124.png
 225.101 by 𝕋oasted 𝔾oose#7124.png
+225.225 by Rush.gif
 225.278 by TheManiac#6012.png
 225.278 by xoto#0766
 225.295 by lethalrabbit OG#5213.png
@@ -1106,11 +1204,17 @@ Here's the list of sprites and their original creator:
 227.59a by Blaquaza#1347.png
 227.85 by H4R-P#4921
 227.85a by H4R-P#4921
+228.271 by Epic Rabid YT reggiregi#3639.png
+228.271a by Epic Rabid YT reggiregi#3639.png
+228.271b by Epic Rabid YT reggiregi#3639.png
+228.305 by Epic Rabid YT reggiregi#3639.png
 228.384 by GamerWolf6#9129.png
 228.384.(Knuckles edit) by GamerWolf6#9129.png
 229 by Captainblaziken#5448.png
 229.51 by The Official Tristan#0420.png
 229.123 by badmemory#9732
+229.306 by Epic Rabid YT reggiregi#3639.png
+229.354 by Epic Rabid YT reggiregi#3639.png
 229a by Captainblaziken#5448.png
 230.287 by Crumbs#8513.png
 230.358 by Omasunner#1386
@@ -1137,6 +1241,8 @@ Here's the list of sprites and their original creator:
 236.45 by Oni-Garth#3079.png
 236.52 by softsweets#5338.png
 236.52a by softsweets#5338.png
+236.66 by Qwetzle#4549.png
+236.67 by Qwetzle#4549.png
 237.100 by jdklsoia#7307
 237.295 by Jace#6971
 238.322 by Pinely#0023
@@ -1151,6 +1257,7 @@ Here's the list of sprites and their original creator:
 241.9a by SmoothEd1#9194 
 241.9b by SmoothEd1#9194 
 241.115 by ✦ Uridove ✦#0630.png
+241.287 by happychanjin#4369.png
 241.333 by GODZILLA!!#9419.png
 241.364 by Pokeapache#7582.png
 242.31 by Teavee#1464.png
@@ -1160,10 +1267,12 @@ Here's the list of sprites and their original creator:
 243.110 by Zorua3#8086
 245.175 by jace#6971
 245.175 recolored by jace#6971
+245.218 by sam (theythem)#6660.png
 246.127 by CrazeBanana#6943
 246.127a by CrazeBanana#6943
 247 by NeoSoup#6526.png
 248 by Crumbs#8513.png
+248.59 by ZeroCipher#2416.png
 248.248 by RubenVK#2692.png
 248.309 by Hid#5642
 248.364 by EchoLoco#6671.png
@@ -1175,6 +1284,9 @@ Here's the list of sprites and their original creator:
 249.85b by Xyloldi#9276.png
 249.136 by Favourbomb#6026.png
 249.372 by JezusOfJordanTTV#1796.png
+249.390 by yaanmaster12#1041.png
+250.180 by Whatdadogdoin’#8691.png
+250.334 by Just BEE yourself haha#0107.png
 250.370 by Crumbs#8513.png
 251 by Blaquaza#1347.png
 251.133 by The Overseer#2445.png
@@ -1192,7 +1304,10 @@ Here's the list of sprites and their original creator:
 254.101a by Crumbs#8513
 254.101b by Crumbs#8513
 254.186 by ROBIN!#0025.png
+254.351 by FilthyTreeMan#4887.png
 255 by Wonder#2598
+255.160 by TheOneAndOnlyLeoVonEhr#4503.png
+255.212 by Lean Izumi (Alecto)#1423.png
 255.266 by Cat001#8045.png
 255.287 by Higure Komori#6969.png
 255.287a by Higure Komori#6969.png
@@ -1217,22 +1332,31 @@ Here's the list of sprites and their original creator:
 260.151 by rainelizabeth#4504.png
 261.88 by Chimbly#9483.png
 262 by GamR#2726.png
+263 by CrazeBanana#6943.png
 263.59 by Swagouille#3714.png
 263.59 by 𝕋oasted 𝔾oose#7124.png
 263.73 by Jaters#2779.png
+263.271 by FNQuantum#2898.png
+263.329 by PoolToyNeko#9395.png
 263.329 by Spels#4670.png
+263.329a by PoolToyNeko#9395.png
 263.369 by Jessisodwakus#0909
 263.369 by Jessisodwakus#0909
 263.369 by Jessisodwakus#0909.png
 263.377 by Medusa_s Little Bitch#5235.png
 263.unknown by kittenAX(82852)#3070.png
+263a by CrazeBanana#6943.png
+263b by CrazeBanana#6943.png
 265.309 by axl17#9480
+265.329 by Cebularz#0887.png
 266 by pengu#6874.png
 266.58 by 𝕋oasted 𝔾oose#7124.png
 266.59 by 𝕋oasted 𝔾oose#7124.png
 266.103 by MolluscMick#4310.png
+267.65 by The Clownster#2387.png
 267.169 by Katten#7455.png
 267.208 by koy#7371.png
+267.369 by SpringLock#8355.png
 269.38 by Blaquaza#1347.png
 269.45 by ☆♡◇BloodyDoll♧♤☆#8922.png
 269.59 by Onix98#4440
@@ -1240,6 +1364,7 @@ Here's the list of sprites and their original creator:
 269.182 by ☆♡◇BloodyDoll♧♤☆#8922.png
 269.245 by Blaquaza#1347.png
 269.251 by Blaquaza#1347.png
+269.271 by Malphasmarx#8797.png
 269.339 by Blaquaza#1347.png
 269.346 by Blaquaza#1347.png
 269.351 by Blaquaza#1347.png
@@ -1249,7 +1374,11 @@ Here's the list of sprites and their original creator:
 271.135 by Zarathustra#6868
 271.135 by Zarathustra#6868
 271.327 by The Overseer#2445.png
+271.373 by Buckerella.png
+272.59 by xoto#0766.png
+272.272 by Joawesomeman#0479.png
 272.335 by Teavee#1464.png
+272.373 by Buckerella.png
 273.331 by Galtis#2604
 274.205 by coldfinger#4273
 275.9 by74potions#0322.png
@@ -1259,6 +1388,7 @@ Here's the list of sprites and their original creator:
 275.262 by Crumbs#8513
 275.262a by Crumbs#8513
 275.262b by Crumbs#8513
+275.329 by Katten#7415.png
 275.338 by Quinn (She They)#0271.png
 275.340 by Katten#7455.png
 276 by PinkYoshi#2350.png
@@ -1295,6 +1425,7 @@ Here's the list of sprites and their original creator:
 283.64b by ThornsofLight#3245
 283.186 by GREEN#2016.png
 283.285 by getthedripp#1890.png
+284 by TM#7724.png
 284.377 by Quinn (She They)#0271.png
 284.377a by Quinn (She They)#0271.png
 285.27 by Blade Wolf#0033.png
@@ -1310,6 +1441,7 @@ Here's the list of sprites and their original creator:
 286.386a by CrazeBanana#6943
 286.405 by ssrry#1652.png
 287.25 by Amigo Monjo#7408.png
+287.28 by FNQuantum#2898.png
 287.148 by Milofiktri#6853.png
 287.212 by Milofiktri#6853.png
 287.286 by Yoshidactylus#5060
@@ -1322,9 +1454,11 @@ Here's the list of sprites and their original creator:
 288 by Crumbs#8513.png
 288.309 by xoto#0766
 289.214 by дарвин.кз#2075.png
+289.289 by ParadoxLou Yunai#4280.png
 289.309 by Kayla93#9428.png
 289.310 by ✦ Uridove ✦#0630.png
 289.398 by Kumo (Uh-hmmm)#5974
+289.411 by Holgast#1562.png
 290 by ClawsHDi#4608.png
 290.128 by Tabarnak#2210
 290.128a by Tabarnak#2210
@@ -1340,6 +1474,7 @@ Here's the list of sprites and their original creator:
 292.51a by BeetEmUp#5400.png
 292.99 by FloppyDingDing#7840.png
 292.99a by FloppyDingDing#7840.png
+292.214 by IsThisAPikachu#3056.png
 292cugrio A by BeetEmUp#5400.png
 293.9 by Revolver#8733
 293.144 by Nikkogerol#0103.png
@@ -1356,6 +1491,7 @@ Here's the list of sprites and their original creator:
 295.94 by The Overseer#2445
 295.97 by The Overseer#2445  
 295.107 by GoldTyanox#4684.png
+295.348 by JustAnotherGuy11#7427.png
 295.359 by minced grass#7603
 295.359 by minced grass#7603.png
 295.359a by minced grass#7603.png
@@ -1367,13 +1503,18 @@ Here's the list of sprites and their original creator:
 296 by TM#7724.png
 296 by To by_Two#2536.png
 296 by bort#5617.png
+296.63 by bleon#2887.png
+296.64 by bleon#2887.png
+296.65 by bleon#2887.png
 296.232 by Z-Man#1429
 296.254 by Blackboots#7369.png
+296.268 by ntzoumi#8387.png
 296.294 by Shadnasiku#5690.png
 296.347 by MisterChaosify#8815.png
 296.371 by Tabarnak#2210.png
 296.371a by Tabarnak#2210.png
 296.371b by Tabarnak#2210.png
+296.420 by Stunfisk_Friend#7905.png
 297.140 by ZAPandDASH04#1846.png
 297.279 by minced grass#7603.png
 297.373 by Literally Mongolia#7111.png
@@ -1401,6 +1542,9 @@ Here's the list of sprites and their original creator:
 302.338.(xoto version) by 𝕋oasted 𝔾oose#7124 
 302.372 by xoto#0766
 302.372a by xoto#0766
+303.100 by Sin#6603.png
+303.100a by Sin#6603.png
+303.101 by Sin#6603.png
 303.402 by Haru Le Demi-Dieu#8222
 304.272 by Developer Pelipper#8851
 304.272a by Developer Pelipper#8851
@@ -1410,6 +1554,7 @@ Here's the list of sprites and their original creator:
 304.334 by 𝕋oasted 𝔾oose#7124.png
 304.338 by WynnDawnstrider#0564
 306.135 by Wyrazzmatazz#1544.png
+308.363 by Robot#6821 based on Kriss#6928 concept.png
 309.227 by Tabarnak#2210.png
 309.293 by Abcgamer_#1784.png
 309.306 by Donny Pastaboi#3880.png
@@ -1460,6 +1605,7 @@ Here's the list of sprites and their original creator:
 315.59 by lemonchoi#2644.png
 315.133 by A0Z#3845.png
 315.245 by Howls#4468.png
+315.354 by FNQuantum#2898.png
 315.373 by fufu#1791.png
 315.373a by fufu#1791.png
 315.373b by fufu#1791.png
@@ -1488,8 +1634,10 @@ Here's the list of sprites and their original creator:
 322.109 by Rosalinda#0001
 322.319.316 by All-Seeing#9253 and BButton#8097
 324.40 by axl17#9480
+324.150 by The Clownster#2387.png
 324.181 by ROBIN!#0025.png
 324.331 by poopsock643#7999.png
+324.373 by Joawesomeman#0479.png
 325.27.(Zionox edit) by Penguino#3468.png
 325.129 by Musti#6777.png
 325.414 Nessie#8611
@@ -1500,6 +1648,9 @@ Here's the list of sprites and their original creator:
 326.94a by Xyloldi#9276
 326.213 by DisOrange#0207.png
 327 by ClawsHDi#4608.png
+327.279 by Sammeh.#2829.png
+327.279a by Sammeh.#2829.png
+327.287 by Ryusagi#4256.png
 327.289 by badmemory#9732
 327.289a by badmemory#9732
 327.301 by PulsarNyx#4875.png
@@ -1515,6 +1666,7 @@ Here's the list of sprites and their original creator:
 329.15b by Spriter#1548.png
 329.28 by PeanutWing#1509.png
 329.105 by Jaters#2779.png
+329.106 by Kalgonus#3660.png
 329.123 by KOMAIN#7770.png
 329.123 by KOMAIN#7770.png
 329.123a by KOMAIN#7770.png
@@ -1524,20 +1676,32 @@ Here's the list of sprites and their original creator:
 329.150 by Keran_D#8254.png
 329.150 by goldenflower22#0732.png
 329.150b by goldenflower22#0732.png
+329.164 by SoraTheOtaku#2158.png
 329.170 by ClawsHDi#4608.png
 329.225 by kobold hijinks#9252
+329.229 by Mathi_Boi#1940.png
+329.229a by Mathi_Boi#1940.png
+329.235 by Mathi_Boi#1940.png
 329.235 by ☆♥𝕄𝕠𝕥𝕚𝕠𝕟𝕠𝕡𝕠𝕥𝕚𝕠𝕟♥☆#2455.png
+329.244 by Aleksander Pelletier#2412.png
+329.262 by minced grass#7603.png
+329.262a by minced grass#7603.png
 329.281 by ???
 329.281a by Gencky#8486.png
 329.287 by minced grass#7603
+329.299 by1AM Sessions#3350.png
 329.302 by PulsarNyx#4875.png
 329.315 by Mori#0019.png
 329.333 by spulktimus#9068.png
+329.337 by Phaserock#0910.png
 329.339.recolor by Fruhui#8083.png
+329.342 by Mathi_Boi#1940.png
+329.367 by Zonkedd#9088.png
 329.372 by Tabarnak#2210.png
 329.372a by Tabarnak#2210.png
 329.380 by ClawsHDi#4608.png
 329.380a by ClawsHDi#4608.png
+329.384 by To by_Two#2536.png
 330.184 by quagsi(• ‿ •)#8123.png
 330.402 by Echo.location#9717
 331.24 by Jessisodwakus#0909
@@ -1546,6 +1710,8 @@ Here's the list of sprites and their original creator:
 331.207 by ThornsofLight#3245.png
 331.278 by twig#8609
 331.350 by Mnemic#9960.png
+331.356 by TM#7724.png
+331.356a by TM#7724.png
 331.368 by poopsock643#7999.png
 332.28 by renetenhove#6416.png
 332.164 by FranGoesBoo#2935.png
@@ -1575,6 +1741,7 @@ Here's the list of sprites and their original creator:
 336 by MaseReloaded#9323.png
 336.25 by Punch#9620.png
 336.131 by Saddy#2082.png
+336.296 by TM#7724.png
 336.333 by Leão#4902.png
 336.339 by Xbzacy#1959
 336.369 by ROBIN!#0025.png
@@ -1588,24 +1755,33 @@ Here's the list of sprites and their original creator:
 339 by Crumbs#8513.png
 339.142 by Omasunner#1386.png
 339.214 by ☆♥𝕄𝕠𝕥𝕚𝕠𝕟𝕠𝕡𝕠𝕥𝕚𝕠𝕟♥☆#2455.png
+339.344 by Skyboy#9244.png
+339.352 by VxNDrev#7244.png
+340.105 by Kydox#0003.png
 340.346 by Law “Diarhrea Dungeon”#1653.png
 340.359 by LinkLion1#2230
+341 by Katten#7415.png
 341.6 by HoundoomKaboom#0622.png
 341.170 by Katten#7455
 341.248 by buc-ee the beaver#6415.png
 341.347 by Katten#7455
 342.162 by Judith❄#7478.png
 342.336 by SmoothEd1#6699
+343.39 by Jaters#2779.png
 343.315 by Abcgamer_#1784.png
 343.334 by Todd Howard#9558.png
 343.339 by Tabarnak#2210.png
 343.377 by Yep, it_s Caio#2377.png
 343.388 by GREEN#2016
+344.296 by Anaru#1100.png
 344.315 by Dab#6693.png
+344.321 by Yoski#0887.png
 344.338 by Glodius#9397.png
 344.343 by Katten#7455
 344.343 by Katten#7455(1)
 344.343a by Katten#7455
+344.347 by TM#7724.png
+345.23 by AveragePKMNfan#6685.png
 345.72 by PkmnGen1Pro#6685.png
 345.73 by PkmnGen1Pro#6685.png
 345.157 by ROBIN!#0025.png
@@ -1642,10 +1818,12 @@ Here's the list of sprites and their original creator:
 347.340 by Katten#7455
 347.340 by Katten#7455.png
 347.346 by Katten#7455.png
+347.347 by Skyboy#9244.png
 347.365 by panthercraft#4268
 347.378 by Katten#7455
 347.378.sketch by Katten#7455
 347.405 by panthercraft#4268
+348.9 by Bomb#4835.png
 348.160 by Halofire#7428.png
 348.296 by TM#7724.jfif
 348.296 by TM#7724.png
@@ -1658,9 +1836,13 @@ Here's the list of sprites and their original creator:
 350.122 by 𝔽𝕝𝕪𝕚𝕟𝕘_ℙ𝕒𝕤𝕥𝕒_𝔾𝕦𝕪#8206.png
 350.227 by SmoothEd1#9194 
 350.248 by Nate#7117
+350.341 by Dryboneskicker#7836.png
 350.347 by CozmoBoom#9335
 352.287 by Jane has a gun#2231.png
+352.300.(GamR edit) by Nocontribution#9143.png
 352.329 by Giuserpeverde#1912.png
+352.355 by Gemmi the dragon#5429.png
+353.3 by JLB63#3738.png
 353.3 by Spear-Al#9299.png
 353.186 by GREEN#2016.png
 353.264 by Horndog#4948.png
@@ -1676,6 +1858,8 @@ Here's the list of sprites and their original creator:
 354.162 by Yoshidactylus#5060
 354.211 by Mnemic#9960.png
 354.281 by VRT#2371
+354.289 by Alana#2706.png
+354.289a by Alana#2706.png
 354.360 by Yoshidactylus#5060
 354.368 by ester#2191.png
 355.19 by 𝕋oasted 𝔾oose#7124
@@ -1708,11 +1892,13 @@ Here's the list of sprites and their original creator:
 357.99 by Leão#4902.png
 357.202 by Ashes2Ashley#4665
 357.202a by Ashes2Ashley#4665
+357.214 by Cebularz#0887.png
 357.296 by TM#7724.png
 357.336 by Phoenix99125#0873
 357.347 by Moon_Tah#2688
 358 by A0Z#3845
 358.15 by h. 🍄#6125.png
+358.32 by11.11.11.11.#2718.png
 358.65 by spagalapof#5624.png
 358.120 by ♦BonafidePirate♠#9200
 358.137 by axl17#9480
@@ -1724,6 +1910,10 @@ Here's the list of sprites and their original creator:
 358.263a by Horndog#4948.png
 358.267 by Pokeapache#7582.png
 358.267a by Pokeapache#7582.png
+358.275 by Goldenberry3#8734.gif
+358.278 by Gdei#2810.png
+358.296 by11.11.11.11.#2718.png
+358.329 by Jolteon#2127.png
 358.340 by Cool Dakota#9208
 358.352 by Kyu#5633.png
 358.359 by FizzleBurger#9480.png
@@ -1732,6 +1922,7 @@ Here's the list of sprites and their original creator:
 358.372 by Quinn (SheThey)#0271.png
 358.400 by Kyu#5633.png
 358.401 by Kyu#5633.png
+358.412 by Espeon#2321.png
 358.420 by Katten#7455.png
 358a by A0Z#3845
 359.1 by -O_-Wisp#2204
@@ -1747,12 +1938,15 @@ Here's the list of sprites and their original creator:
 359.329 by Hilune#1076 
 359.329 by Katten#7455
 359.329a by Katten#7455
+359.333 by lucelent#5101.png
 359.333 by wilburRson#3784.png
 359.380 by Katten#7455.png
 359.411 by Jane has a gun#2231.png
 359.411a by Jane has a gun#2231.png
 360 by Jane has a gun#2231.png
 360.154 by poopsock643#7999.png
+360.352 by Whatdadogdoin’#8691.png
+360.359 by ShakesperianMoron#6159.png
 360.360 by fufu#1791.png
 360.363 by aurealien#3593.png
 360.387 by Meztli#6172
@@ -1765,6 +1959,8 @@ Here's the list of sprites and their original creator:
 362.248 by Howls#4468.png
 362.285 by KOMAIN#7770.png
 362.293 by Jaters#2779
+362.329 by Goldenberry3#8734.png
+362.329a by Goldenberry3#8734.png
 363.154 by ClawsHDi#4608.png
 363.154 by GREEN#2016.png
 363.168 by Raditz#7745.png
@@ -1780,6 +1976,7 @@ Here's the list of sprites and their original creator:
 364.287 by Le Raz27#6898
 364.288 by Le Raz27#6898
 364.318 by Remari#7169.png
+365.10 by DeaFeon#8283.png
 365.11 by CrazeBanana#6943
 365.13 by ElMerengues#2225.png
 365.69 by Kitsune Ursa Vision#0470.png
@@ -1795,6 +1992,7 @@ Here's the list of sprites and their original creator:
 365.409 by Aloeva#0375.png
 365.410 by Aloeva#0375.png
 365.416 by Wœtrœ#4935
+366.11 by DeaFeon#8283.png
 366.134 by LORD 10hS HERE#5681.png
 366.164 by GREEN#2016.png
 366.285 by ☆ Jammy Jamboree ☆#5672
@@ -1803,12 +2001,14 @@ Here's the list of sprites and their original creator:
 366.412 by crabhorse#0208.png
 367.9 by Bubbline#9700.png
 367.9 by Money Matt#0966.png
+367.12 by DeaFeon#8283.png
 367.93 by roketpro#6102
 367.100 by Onyxdragon#9488
 367.101 by Onyxdragon#9488
 367.136 by TheShattered_Mug#2737.png
 367.136 by sabrina_the_witch#4746
 367.136a by sabrina_the_witch#4746
+367.168 by girl_Cookie#9451.png
 367.176 (knuckles edit) by JasonM#7068.png
 367.176 by JasonM#7068.png
 367.212 by Cdubgaming#0594.png
@@ -1816,12 +2016,15 @@ Here's the list of sprites and their original creator:
 367.264 by pengu#7961
 367.272 by Cat001#8045.png
 367.272a by Cat001#8045.png
+367.286 by Zonkedd#9088.png
+367.339 by VaI#2912.png
 367.346 by Teebreaker#2095
 367.349 by Kwin Bee#9612.png
 367.353 by SmoothEd1#9194
 367.396 by xfatalfinishx#0618
 368 by philipl#0307
 368.205 by GameLord64#0690
+368.354 by blockayboi815#7802.png
 368.354 by ester#2191.png
 369.51 by Quinn (SheThey)#0271.png
 369.151 by Slappicus#3616.png
@@ -1843,9 +2046,12 @@ Here's the list of sprites and their original creator:
 373.89 (blaq edit) by Katten#7455
 373.89 by Katten#7455
 373.101 by cold#8884.png
+373.106 by Chill Bill#3927.png
 373.131 by NeoSoup#6526.png
 373.131a by NeoSoup#6526.png
 373.134 by Teavee#1464.png
+373.138 by Whatdadogdoin’#8691.png
+373.139 by Whatdadogdoin’#8691.png
 373.194 by Goobert#3339 
 373.203 by TM#7724.png
 373.203a by TM#7724.png
@@ -1863,11 +2069,14 @@ Here's the list of sprites and their original creator:
 373.373a by THE WORST PERSON EVER#0008.png
 373.375 by Punko#1235.png
 373.407 by ChaoticPøchi#0246.png
+373.420 by Stunfisk_Friend#7905.png
 374 by SmoothCactus#2568
 374.130 by Mega Moist#3413.png
 374.130a by Mega Moist#3413.png
+374.157 by Sunset Sailor Fox#8957.png
 374.263 by Carrots4U#1833.png
 374.288 by IraKhole#8554
+374.300 by Zonkedd#9088.png
 374.331 by JasonM#7068.png
 374a by SmoothCactus#2568
 375.41 by TM#7724.png
@@ -1884,6 +2093,7 @@ Here's the list of sprites and their original creator:
 377.94a by Bioh#5266.png
 377.354 by Bubbline#9700.png
 378.336 by JasonM#7068.png
+378.379 by Goldenberry3#8734.png
 378.396 by JasonM#7068.png
 378.403 by Gdei#2810.png
 378.403a by Gdei#2810.png
@@ -1891,6 +2101,7 @@ Here's the list of sprites and their original creator:
 379.226 by GameLord64#0690.png
 379.226a by GameLord64#0690.png
 379.226b by GameLord64#0690.png
+379.299 by (CGCHS) HammerTime#4869.png
 379.371 by Comfy#5418.png
 379.371a by Comfy#5418.png
 380 by Jaters#2779.png
@@ -1900,10 +2111,14 @@ Here's the list of sprites and their original creator:
 380.281 by woodmania#8763.png
 380.380 by дарвин.кз#2075.png
 381 by Cub (for now)#5067 
+381.4 by Katten#7415.png
+381.5 by Katten#7415.png
+381.6 by Katten#7415.png
 381.11 by ClawsHDi#4608.png
 381.16 by TM#7724
 381.17 by TM#7724
 381.18 by TM#7724
+381.143 by ⟪ꌚꉣꈼꀯꋖꁲꁴꂵꁲ ⟫#5094.png
 381.194 by Katten#7455
 381.214 by Cub(e)#5067
 381.214a (xoto edit) by Cub(e)#5067
@@ -1911,6 +2126,8 @@ Here's the list of sprites and their original creator:
 381.313a by ChaoticPøchi#0246.png
 381.313b by ChaoticPøchi#0246.png
 381.339 by muddyratgirl#8646.png
+381.342 by Yoski#0887.png
+381.349 by Zonkedd#9088.png
 381.388 by Katten#7455.png
 382.215 by apurru#9447.png
 382.285 by Katten#7455.png
@@ -1920,6 +2137,7 @@ Here's the list of sprites and their original creator:
 384.42 by crabhorse#0208.png
 384.43 by error#6038
 384.254 by Blackboots#7369.png
+384.420 by Stunfisk_Friend#7905.png
 386.307 by ThornsofLight#3245.png
 387.202 by SquidArrows#1281
 387.365 by Snailcat#7111.gif 
@@ -1928,10 +2146,12 @@ Here's the list of sprites and their original creator:
 388.213 by Jaywdude#1024.png
 389.27 by renetenhove#6416.png
 389.42 by Ortheoz#7942.png
+390.13 by Qwetzle#4549.png
 390.37 by Fireball006#6435.png
 390.191 by Fireball006#6435.png
 390.220 by Cult#8608.png
 390.228 by Romani Peace#5089
+390.394 by yaanmaster12#1041.png
 390.416 by ReddShot#2167.png
 391.95 by Chimbly#9483.png
 391.95a by Chimbly#9483.png
@@ -1946,6 +2166,7 @@ Here's the list of sprites and their original creator:
 392.70 by CrazeBanana#6943
 392.95 by ~Ali~#7791.png
 392.172 by Katten#7455.png
+392.196 by Corinnander#7645.png
 392.203 by Rekkuza#2643.png
 392.240 by Blaquaza#1347.png
 392.280 by FlamingPaperCup#7468
@@ -1956,6 +2177,7 @@ Here's the list of sprites and their original creator:
 394.8 by LinkLion1#2230
 394.12 by GREEN#2016.png
 394.276 by ThornsofLight#3245.png
+394.309 by Tunana#9370.png
 395.365 by xfatalfinishx#0618
 396.156.(Blaq edit) by Nikkogerol#0103.png
 396.366 by xfatalfinishx#0618
@@ -1968,6 +2190,7 @@ Here's the list of sprites and their original creator:
 398.105 by Shadow#3893.png
 399.109 by PinkYoshi#2350
 399.134 by GREEN#2016
+399.161 by DigiDragoon#2625.png
 399.339 by The Overseer#2445
 399.339a by The Overseer#2445
 399.339b by The Overseer#2445
@@ -1997,14 +2220,19 @@ Here's the list of sprites and their original creator:
 404.294 by Nessie#8611.png
 404.383 by Nessie#8611.png
 405.120 by Snipechan#3506.png
+405.143 by Whatdadogdoin’#8691.png
 405.197 by piebald#8194.png
 405.197a by piebald#8194.png
 405.197b by piebald#8194.png
 406.23 by GamR#2726
 406.25 by Howls#4468
+406.37 by PinkBananaMilk#3264.png
+406.38 by Qwetzle#4549.png
+406.38a by Qwetzle#4549.png
 406.50 by MaseReloaded#9323.png
 406.51 by MaseReloaded#9323.png
 406.133 by Katten#7455.png
+406.149 by Saïd Zeppelin#4546.png
 406.172 by Howls#4468
 406.228 by meme-lurd#2295.png
 406.240 by Blaquaza#1347.png
@@ -2012,6 +2240,7 @@ Here's the list of sprites and their original creator:
 406.416 by Hilune#1076
 407.25 by Howls#4468
 407.133 by Katten#7455.png
+408.79 by BloodyDeadCat#5292.png
 408.92 by apurru#9447.png
 408.93 by apurru#9447.png
 408.365 by LoserUser359#1783
@@ -2019,6 +2248,7 @@ Here's the list of sprites and their original creator:
 408.412a by aurealien#3593.png
 409.330 by Quinn (She They)#0271.png
 410.105 by FlamingPaperCup#7468
+411.65 by JustAnotherGuy11#7427.png
 411.93 by DerD4nnY#6878
 411.202 by DerD4nnY#6878.png
 411.203 by Jane has a gun#2231.png
@@ -2034,14 +2264,21 @@ Here's the list of sprites and their original creator:
 412.92 by SmoothEd1#9194
 412.98 by crabhorse#0208.png
 412.373 by Zionox#4503.png
+412.375 by Tsykotics#4142.png
 412.388 by Tenrec#8380.png
 413.1 by DracoTheScholar#6569
 413.285.line by Le Raz27#6898
 414.412 by The Overseer#2445.png
+415.407 by (CGCHS) HammerTime#4869.png
 416.151 by Slappicus#3616.png
 416.173 by Echo.location#9717
 416.358 by YourTypicalJToHPlayer#1967.png
 416.404 by Jane has a gun#2231.png
+420.1 by Stunfisk_Friend#7905.png
+420.2 by Stunfisk_Friend#7905.png
+420.144 by Stunfisk_Friend#7905.png
+420.145 by Stunfisk_Friend#7905.png
+420.146 by Stunfisk_Friend#7905.png
 420.316 by Cheepoof#8815.png
 420.392 by Jackal#5326.png
 Farfetch_d 27 by PenLeywin#4218.png
